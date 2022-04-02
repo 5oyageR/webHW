@@ -70,7 +70,7 @@ ul {
   background-color: rgb(228, 49, 93);
   color: white;
   box-shadow: inset 0 0 0 0 slateblue;
-  transition: ease-out 0.3s;
+  transition: ease-out 0.4s;
   font-size: 1rem;
 }
 .btn1:hover{
